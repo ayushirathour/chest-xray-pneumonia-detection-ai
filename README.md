@@ -49,6 +49,7 @@ Pneumonia affects millions globally, requiring rapid and accurate diagnosis from
 * **Zero Data Storage** ensures completely secure local processing
 * **Mobile Responsive** works seamlessly across all devices
 
+
 ***
 
 ## 📊 **Proof of Reliability**
