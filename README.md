@@ -118,7 +118,6 @@ results/reproducibility/
 
 **Zenodo Archive:** DOI: [10.5281/zenodo.17520564](https://zenodo.org/records/17520564)
 
-See [DATA_AVAILABILITY.md](DATA_AVAILABILITY.md) for complete reproducibility guide.
 
 ---
 
