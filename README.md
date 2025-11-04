@@ -68,6 +68,22 @@ Both datasets originate from Guangzhou Women and Children’s Medical Center, wi
 - Separate quality assurance pipelines
    
 This **temporal validation with expert re-annotation** effectively captures cross-operator variability over time (same hospital, evolved workflows). The next evolution would be full multi-center testing for even broader generalization.
+
+## 📊 Reproducibility & Statistical Verification
+
+### Bootstrap-Based AUC Comparison
+Our primary statistical test uses **bootstrap resampling** (n=1,000) instead of paired-sample tests, as internal and cross-operator validations used independent datasets:
+
+- **Bootstrap Result**: mean ΔAUC = −0.0001 (95% CI: [−0.0115, 0.0099])
+- **Bootstrap p-value**: 0.978 (NO significant difference)
+- **Conclusion**: Strong generalization across independent test sets
+
+**All metrics, code, and statistical files available:**
+- **GitHub**: `results/reproducibility/`
+- **Zenodo Archive**: DOI: [10.5281/zenodo.17520564](https://zenodo.org/records/17520564)
+
+See [DATA_AVAILABILITY.md](DATA_AVAILABILITY.md) for complete reproducibility guide.
+
 ### **📈 Performance Metrics**
 
 | Metric | Internal | Cross-Operator | Drop | Clinical Significance |
