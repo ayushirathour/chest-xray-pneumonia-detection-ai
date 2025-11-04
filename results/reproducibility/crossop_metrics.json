@@ -1,0 +1,39 @@
+{
+  "dataset_info": {
+    "name": "Cross-Operator Validation Set",
+    "total_samples": 485,
+    "pneumonia_samples": 251,
+    "normal_samples": 234
+  },
+  "confusion_matrix": {
+    "true_positives": 242,
+    "false_positives": 59,
+    "false_negatives": 9,
+    "true_negatives": 175
+  },
+  "performance_metrics": {
+    "accuracy": 0.86,
+    "sensitivity": 0.964,
+    "specificity": 0.748,
+    "precision": 0.804,
+    "f1_score": 0.877,
+    "roc_auc": 0.964,
+    "pr_auc": 0.968,
+    "ppv": 0.804,
+    "npv": 0.951,
+    "fpr": 0.252,
+    "fnr": 0.036,
+    "mcc": 0.733,
+    "kappa": 0.717
+  },
+  "confidence_intervals": {
+    "accuracy_ci_lower": 0.826,
+    "accuracy_ci_upper": 0.888,
+    "sensitivity_ci_lower": 0.933,
+    "sensitivity_ci_upper": 0.981,
+    "specificity_ci_lower": 0.689,
+    "specificity_ci_upper": 0.799,
+    "roc_auc_ci_lower": 0.945,
+    "roc_auc_ci_upper": 0.978
+  }
+}

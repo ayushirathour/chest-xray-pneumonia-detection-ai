@@ -1,0 +1,31 @@
+{
+  "dataset_info": {
+    "name": "Internal Hold-Out Test Set",
+    "total_samples": 259,
+    "pneumonia_samples": 134,
+    "normal_samples": 125
+  },
+  "confusion_matrix": {
+    "true_positives": 120,
+    "false_positives": 0,
+    "false_negatives": 14,
+    "true_negatives": 125
+  },
+  "performance_metrics": {
+    "accuracy": 0.948,
+    "sensitivity": 0.896,
+    "specificity": 1.0,
+    "precision": 1.0,
+    "f1_score": 0.944,
+    "roc_auc": 0.988,
+    "pr_auc": 0.99,
+    "ppv": 1.0,
+    "npv": 0.951,
+    "fpr": 0.0,
+    "fnr": 0.104
+  },
+  "confidence_intervals": {
+    "roc_auc_ci_lower": 0.976,
+    "roc_auc_ci_upper": 0.998
+  }
+}

@@ -1,0 +1,3 @@
+True_Label,Predicted_Normal,Predicted_Pneumonia
+Normal,125,0
+Pneumonia,14,120

@@ -1,0 +1,62 @@
+{
+  "model_architecture": "MobileNetV2",
+  "base_model": {
+    "name": "MobileNetV2",
+    "weights": "imagenet",
+    "input_shape": [
+      224,
+      224,
+      3
+    ],
+    "trainable": false
+  },
+  "classification_head": {
+    "global_average_pooling": true,
+    "dropout_1": 0.3,
+    "dense_1": {
+      "units": 128,
+      "activation": "relu"
+    },
+    "dropout_2": 0.2,
+    "output_layer": {
+      "units": 1,
+      "activation": "sigmoid"
+    }
+  },
+  "compilation_parameters": {
+    "optimizer": "Adam",
+    "learning_rate": 0.001,
+    "loss": "binary_crossentropy",
+    "metrics": [
+      "accuracy",
+      "precision",
+      "recall"
+    ]
+  },
+  "training_parameters": {
+    "batch_size": 32,
+    "max_epochs": 25,
+    "early_stopping_patience": 7,
+    "reduce_lr_patience": 4,
+    "reduce_lr_factor": 0.5,
+    "min_lr": 1e-07
+  },
+  "data_augmentation": {
+    "rotation_range": 20,
+    "width_shift_range": 0.2,
+    "height_shift_range": 0.2,
+    "zoom_range": 0.2,
+    "horizontal_flip": true,
+    "brightness_range": [
+      0.8,
+      1.2
+    ],
+    "fill_mode": "nearest"
+  },
+  "dataset_split": {
+    "train_samples": "Unknown",
+    "validation_samples": "Unknown",
+    "test_samples": 259,
+    "crossop_samples": 485
+  }
+}

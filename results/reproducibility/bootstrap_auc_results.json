@@ -1,0 +1,12 @@
+{
+  "method": "Bootstrap resampling (n=1,000 resamples, independent samples)",
+  "internal_auc": 0.988,
+  "crossop_auc": 0.964,
+  "mean_delta_auc": -0.0001,
+  "delta_auc_95_ci": [
+    -0.0115,
+    0.0099
+  ],
+  "p_value": 0.978,
+  "interpretation": "NOT statistically significant (CI includes 0)"
+}
