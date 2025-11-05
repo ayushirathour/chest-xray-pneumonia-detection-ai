@@ -499,7 +499,7 @@ Zenodo. [https://doi.org/10.5281/zenodo.17520564](https://doi.org/10.5281/zenodo
   url={https://github.com/ayushirathour/chest-xray-pneumonia-detection-ai}
 }
 ``` 
-
+---
 **License:** [MIT](LICENSE) (see LICENSE for complete terms)
 
 ---
