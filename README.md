@@ -1,5 +1,4 @@
 # Pediatric Chest X-Ray Pneumonia Detection with Cross-Operator Validated AI System
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17531598.svg)](https://doi.org/10.5281/zenodo.17531598)
 
 
 <p align="center">
@@ -11,6 +10,7 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-Live_App-red.svg)](https://pneumodetectai.streamlit.app)
 [![HuggingFace](https://img.shields.io/badge/🤗_Model-Live_on_HuggingFace-yellow.svg)](https://huggingface.co/ayushirathour/chest-xray-pneumonia-detection)
 [![Zenodo](https://img.shields.io/badge/Zenodo-10.5281%2Fzenodo.17520564-blue.svg)](https://zenodo.org/records/17520564)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17531598.svg)](https://doi.org/10.5281/zenodo.17531598)
 [![Validation](https://img.shields.io/badge/Cross--Operator_Validation-86%25_Accuracy-green.svg)](https://github.com/ayushirathour/chest-xray-pneumonia-detection)
 
 **Advanced Deep Learning Model with Research-Grade Performance & Real-World Validation**
