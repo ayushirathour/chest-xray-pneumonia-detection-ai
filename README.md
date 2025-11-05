@@ -36,8 +36,8 @@
 - [Medical Disclaimers](#%EF%B8%8F-medical-disclaimers)
 - [Contributing](#-contributing)
 - [Future Roadmap](#-future-roadmap)
-- [Citation & License](#-citation--license)
 - [Contact](#-contact)
+- [Citation & License](#-citation--license)
 
 ---
 
