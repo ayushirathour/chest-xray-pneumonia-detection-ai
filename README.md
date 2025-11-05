@@ -311,7 +311,6 @@ chest-xray-pneumonia-detection-ai/
 ├── README.md               # This file
 ├── requirements.txt        # Python dependencies
 ├── LICENSE                 # MIT License
-├── DATA_AVAILABILITY.md    # Reproducibility guide
 └── .gitignore              # Git ignore rules
 ```
 
