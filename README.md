@@ -498,7 +498,14 @@ Zenodo. [https://doi.org/10.5281/zenodo.17520564](https://doi.org/10.5281/zenodo
   doi={10.5281/zenodo.17520564},
   url={https://github.com/ayushirathour/chest-xray-pneumonia-detection-ai}
 }
-``` 
+```
+Rathour, A. (2025). Pediatric Pneumonia Detection with a Lightweight, Cross-Operator Validated Deep Learning Model. 
+In International Journal of Science, Engineering and Technology (Vol. 13, No. 5). Zenodo. 
+https://doi.org/10.5281/zenodo.17531598
+
+Rathour, A. (2025). Chest X-Ray Pneumonia Detection: Cross-Operator Validated AI System (v1.0). 
+Zenodo. https://doi.org/10.5281/zenodo.17520564
+
 ---
 **License:** [MIT](LICENSE) (see LICENSE for complete terms)
 
