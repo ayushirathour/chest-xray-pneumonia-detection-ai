@@ -460,13 +460,38 @@ See [Issues](https://github.com/ayushirathour/chest-xray-pneumonia-detection-ai/
 
 ---
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17520564.svg)](https://doi.org/10.5281/zenodo.17520564)
+
 ## 📄 **Citation & License**
 
-### **How to Cite This Work**
+### **Research Publication**
 
-**BibTeX:**
+**Ayushi Rathour. (2025).** *Pediatric Pneumonia Detection with a Lightweight, Cross-Operator Validated Deep Learning Model.*  
+In *International Journal of Science, Engineering and Technology (Vol. 13, No. 5).*  
+Zenodo. [https://doi.org/10.5281/zenodo.17531598](https://doi.org/10.5281/zenodo.17531598)
+
+---
+
+### **Code & Dataset Archive**
+
+**Ayushi Rathour. (2025).** *Chest X-Ray Pneumonia Detection: Cross-Operator Validated AI System (v1.0).*  
+Zenodo. [https://doi.org/10.5281/zenodo.17520564](https://doi.org/10.5281/zenodo.17520564)
+
+---
+
+### **BibTeX:**
 ```bibtex
-@misc{rathour2025pneumonia,
+@article{rathour2025paper,
+  title={Pediatric Pneumonia Detection with a Lightweight, Cross-Operator Validated Deep Learning Model},
+  author={Rathour, Ayushi},
+  journal={International Journal of Science, Engineering and Technology},
+  volume={13},
+  number={5},
+  year={2025},
+  doi={10.5281/zenodo.17531598}
+}
+
+@misc{rathour2025code,
   title={Chest X-Ray Pneumonia Detection: Cross-Operator Validated AI System (v1.0)},
   author={Rathour, Ayushi},
   year={2025},
@@ -474,12 +499,7 @@ See [Issues](https://github.com/ayushirathour/chest-xray-pneumonia-detection-ai/
   doi={10.5281/zenodo.17520564},
   url={https://github.com/ayushirathour/chest-xray-pneumonia-detection-ai}
 }
-```
-
-**APA:**
-```
-Rathour, A. (2025). Chest X-Ray Pneumonia Detection with Cross-Operator Validated AI System (v1.0). Zenodo. https://doi.org/10.5281/zenodo.17520564
-```
+``` 
 
 **License:** [MIT](LICENSE) (see LICENSE for complete terms)
 
