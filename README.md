@@ -1,4 +1,6 @@
 # Pediatric Chest X-Ray Pneumonia Detection with Cross-Operator Validated AI System
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17531598.svg)](https://doi.org/10.5281/zenodo.17531598)
+
 
 <p align="center">
   <img src="demo/AI_Detects_Pneumonia_Saves_Childhoods.gif" alt="Animated demo: mother with child, AI highlight on X-ray" style="width: 100%; max-width: 1000px; height: auto;" />
