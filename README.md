@@ -460,7 +460,6 @@ See [Issues](https://github.com/ayushirathour/chest-xray-pneumonia-detection-ai/
 
 ---
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17520564.svg)](https://doi.org/10.5281/zenodo.17520564)
 
 ## 📄 **Citation & License**
 
