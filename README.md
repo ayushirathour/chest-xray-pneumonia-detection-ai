@@ -469,21 +469,6 @@ See [Issues](https://github.com/ayushirathour/chest-xray-pneumonia-detection-ai/
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
----
-
-## 🛣️ **Future Roadmap**
-
-- [ ] Multi-center validation across 5+ hospitals
-- [ ] Pneumonia subtype classification (bacterial vs viral)
-- [ ] Integration with DICOM imaging servers
-- [ ] FDA pre-certification pathway study
-- [ ] Pediatric age-specific performance analysis (1-2, 3-4, 5+ years)
-- [ ] Real-time model monitoring dashboard
-- [ ] Mobile app for offline inference
-- [ ] Attention visualization improvements
-- [ ] Explainability analysis (LIME, SHAP)
-
----
 
 ## 🚀 **Get Involved & Contact**
 
@@ -494,11 +479,6 @@ See [Issues](https://github.com/ayushirathour/chest-xray-pneumonia-detection-ai/
 * **[📖 API Documentation](http://localhost:8000/docs)** when running locally
 * **[📄 View Paper](https://doi.org/10.5281/zenodo.17520564)** - Published research
 
-### **👥 Collaboration Opportunities:**
-* 🩺 **Medical Professionals** for clinical validation and expert feedback
-* 🎨 **UI/UX Designers** for enhanced medical interface design
-* 💻 **Python Developers** for API optimization and new features
-* 📊 **Data Scientists** for model improvement and validation expansion
 
 ### **📞 Contact:**
 
