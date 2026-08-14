@@ -33,11 +33,11 @@
 - [Technical Architecture](#-technical-architecture)
 - [Datasets](#-datasets--preprocessing)
 - [Research Methodology](#-research-methodology)
+- [Citation & License](#-citation--license)
 - [Medical Disclaimers](#%EF%B8%8F-medical-disclaimers)
 - [Contributing](#-contributing)
-- [Future Roadmap](#-future-roadmap)
 - [Contact](#-contact)
-- [Citation & License](#-citation--license)
+
 
 ---
 
