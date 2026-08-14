@@ -375,6 +375,59 @@ This approach is **often missing** in academic AI projects but **critical** for 
 
 ---
 
+---
+
+
+## 📄 **Citation & License**
+
+### **Research Publication**
+
+**Ayushi Rathour. (2025).** *Pediatric Pneumonia Detection with a Lightweight, Cross-Operator Validated Deep Learning Model.*  
+In *International Journal of Science, Engineering and Technology (Vol. 13, No. 5).*  
+Zenodo. [https://doi.org/10.5281/zenodo.17531598](https://doi.org/10.5281/zenodo.17531598)
+
+---
+
+### **Code & Dataset Archive**
+
+**Ayushi Rathour. (2025).** *Chest X-Ray Pneumonia Detection: Cross-Operator Validated AI System (v1.0).*  
+Zenodo. [https://doi.org/10.5281/zenodo.17520564](https://doi.org/10.5281/zenodo.17520564)
+
+---
+
+### **BibTeX:**
+```bibtex
+@article{rathour2025paper,
+  title={Pediatric Pneumonia Detection with a Lightweight, Cross-Operator Validated Deep Learning Model},
+  author={Rathour, Ayushi},
+  journal={International Journal of Science, Engineering and Technology},
+  volume={13},
+  number={5},
+  year={2025},
+  doi={10.5281/zenodo.17531598}
+}
+
+@misc{rathour2025code,
+  title={Chest X-Ray Pneumonia Detection: Cross-Operator Validated AI System (v1.0)},
+  author={Rathour, Ayushi},
+  year={2025},
+  note={Cross-operator validation on 485 independent samples. Bootstrap statistical verification included.},
+  doi={10.5281/zenodo.17520564},
+  url={https://github.com/ayushirathour/chest-xray-pneumonia-detection-ai}
+}
+```
+### **📚 APA Citation**
+```text
+Rathour, A. (2025). Pediatric Pneumonia Detection with a Lightweight, Cross-Operator Validated Deep Learning Model. 
+In International Journal of Science, Engineering and Technology (Vol. 13, No. 5). Zenodo. 
+https://doi.org/10.5281/zenodo.17531598
+```
+```text
+Rathour, A. (2025). Chest X-Ray Pneumonia Detection: Cross-Operator Validated AI System (v1.0). 
+Zenodo. https://doi.org/10.5281/zenodo.17520564
+```
+---
+
 ## ⚠️ **Medical Disclaimers**
 
 ### **🚨 Critical Limitations**
@@ -457,58 +510,7 @@ See [Issues](https://github.com/ayushirathour/chest-xray-pneumonia-detection-ai/
 * **🤗 HuggingFace:** [ayushirathour](https://huggingface.co/ayushirathour)
 * **🔬 Zenodo:** [10.5281/zenodo.17520564](https://zenodo.org/records/17520564)
 
----
 
-
-## 📄 **Citation & License**
-
-### **Research Publication**
-
-**Ayushi Rathour. (2025).** *Pediatric Pneumonia Detection with a Lightweight, Cross-Operator Validated Deep Learning Model.*  
-In *International Journal of Science, Engineering and Technology (Vol. 13, No. 5).*  
-Zenodo. [https://doi.org/10.5281/zenodo.17531598](https://doi.org/10.5281/zenodo.17531598)
-
----
-
-### **Code & Dataset Archive**
-
-**Ayushi Rathour. (2025).** *Chest X-Ray Pneumonia Detection: Cross-Operator Validated AI System (v1.0).*  
-Zenodo. [https://doi.org/10.5281/zenodo.17520564](https://doi.org/10.5281/zenodo.17520564)
-
----
-
-### **BibTeX:**
-```bibtex
-@article{rathour2025paper,
-  title={Pediatric Pneumonia Detection with a Lightweight, Cross-Operator Validated Deep Learning Model},
-  author={Rathour, Ayushi},
-  journal={International Journal of Science, Engineering and Technology},
-  volume={13},
-  number={5},
-  year={2025},
-  doi={10.5281/zenodo.17531598}
-}
-
-@misc{rathour2025code,
-  title={Chest X-Ray Pneumonia Detection: Cross-Operator Validated AI System (v1.0)},
-  author={Rathour, Ayushi},
-  year={2025},
-  note={Cross-operator validation on 485 independent samples. Bootstrap statistical verification included.},
-  doi={10.5281/zenodo.17520564},
-  url={https://github.com/ayushirathour/chest-xray-pneumonia-detection-ai}
-}
-```
-### **📚 APA Citation**
-```text
-Rathour, A. (2025). Pediatric Pneumonia Detection with a Lightweight, Cross-Operator Validated Deep Learning Model. 
-In International Journal of Science, Engineering and Technology (Vol. 13, No. 5). Zenodo. 
-https://doi.org/10.5281/zenodo.17531598
-```
-```text
-Rathour, A. (2025). Chest X-Ray Pneumonia Detection: Cross-Operator Validated AI System (v1.0). 
-Zenodo. https://doi.org/10.5281/zenodo.17520564
-```
----
 **License:** [MIT](LICENSE) (see LICENSE for complete terms)
 
 ---
